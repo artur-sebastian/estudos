@@ -1,0 +1,78 @@
+Comando de Entrada e Operadores -
+            (preto)
+
+     Comando de Entrada
+            (azul)
+
+*leia* é o comando de entrada e
+todas as linguaguens de programação
+possuem comandos de entradas.
+
+
+estrutura basica do algoritmo
+
+Algoritmo "Meu Nome"
+var
+   nome : Caractere
+Inicio
+  escreva ("Digite seu nome")
+  leia (nome) 
+  escreva ("Muito prazer,artur")
+
+FimAlgoritmo
+
+
+       Operadores Aritméticos 
+               (azul)
+    
+          fazer tabela (caderno)
++ adição a+b
+- subtração     (Ambos são universais)
+* Multipicação
+/ Divisão a/ b
+\ Divisão Interira
+^ Exponenciação
+% Módulo
+
+  ordem de precedencia
+          (azul)
+
+indica a ordem que os operadores
+serão considerados dentro de uma
+mesma expressão.
+
+() Parenteses
+^ exponenciação
+*/ multipicação/ divisão
++- adição / subtração
+  
+ex;  3+2/2= 4
+     (3+2)/2= 2.5
+  
+
+     funções aritméticas 
+
+abs valor absoluto
+exp exponenciação
+int valor inteiro
+Raizq
+PI
+Sen
+Cos 
+Tan
+Grauprad
+           (foto)
+
+
+
+
+
+lembrete:
+*var - variavel 
+
+numeros n1 e n2 inteiro 
+real são numeros quebrados 2.4
+
+
+
+

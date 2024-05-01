@@ -1,0 +1,20 @@
+operadores relacionais 
+são: foto tirada 
+
+ele são usados para fazer comparação
+entre textos , entre valores booleanos 
+, entre numeros.
+
+ operadores lógicos 
+que são basicamente tres , pode ser tamném vc venha precisar a trabalhar 
+com quarto 
+
+
+    ESTRUTURA  CONTROLE DE CONDICIONAIS 
+
+
+  podem ser divididas em vários grupos ou tipos  
+
+
+ 
+ 

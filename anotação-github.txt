@@ -1,0 +1,79 @@
+Historia do Git
+
+criador ; Linus Torvalds
+
+  *objetivo*:
+  
+Velocidade
+ 
+Projeto Simples
+
+Suporte melhor para desenvolvimento
+não-linear;
+
+Completamente distribuido
+
+Capaz de lidar com projetos com eficiencia 
+-----------------------------------------
+
+o que é o github?
+
+é o local de criar projetos e compartilhar 
+com outras pessoas.
+
+é a redes socias para programadores
+
+
+
+
+estados dos arquivos 
+
+são dois estados 
+
+
+. Tracked-
+  é quando o arquivo já  é 
+  conhecido pelo o git , e ele
+  pode ser unmodified,modified
+  staged.
+
+
+ Unmodified:
+ arquivo já é conhecido 
+ pelo o git mas não foi
+ modificado
+
+
+ Modified-
+arquivo ja é conhecido 
+pelo git , foi modificado e
+ainda não foi modificado
+
+ Staged - marcou um arquivo 
+ modificado pra ir para o 
+proximo snapshot de commit 
+
+
+
+
+
+. Untracked- 
+quando o arquivo ainda não 
+é conhecido pelo git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senha do github
+33821135sg

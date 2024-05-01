@@ -1,0 +1,70 @@
+         (CONTINUAÇÃO DE ONTEM)
+   
+       
+        O PRIMEIRO ALGORITMO
+ 
+  - algoritmos computacionais 
+
+ são passos a seresm seguidos por um módulo
+processador e seus respctivos usuários que ,
+quando executados na ordem correta , conseguem
+realizar determinada tarefa .
+
+
+1º logica de programação
+2º linguagem de programação
+3º sistema completo
+
+logica de programação 
+ 
+Fluxograma , portugol
+
+não confunda "portugol" - não é uma linguagem 
+de programação e sim uma 
+maneira de representação
+
+
+         COMANDO DE SAÍDA
+
+ESCREVA ("QUALQUER COISA")
+ESCREVAL ("QUALQUER COISA")
+QUEBRA LINHA 
+
+
+            VARIÁVEIS
+SÃO ESPAÇOS VAZIOS, QUE PODE SER PRIENCHIDO COM 
+VALORES
+
+   var 
+ identificador: tipo      BOLA:brinquedo
+
+
+     * indetificadores 
+
+1. deve começar com uma letra 
+2. os proximos podem ser letras ou números
+3.não pode utilizar nenhum, símbolo, exceto _
+4.não pode conter espaços em branco
+5.não pode conter letras com acentos
+6.não pode ser uma palavra reservada      
+
+
+      tipos primitivos
+  
+ inteiros
+ex; 1 3 -5 198 0
+
+
+ real
+  ex; 0.5 5.0  9.8 -77
+
+
+ caractere
+
+ex; "gustavo" "algoritmo" "123" 
+
+ logico
+ ex; verdadeiro falso
+
+
+
